@@ -1,0 +1,10 @@
+name: Softball_Stats
+account: anujpanday
+server: shinyapps.io
+appId: 168675
+bundleId: 772483
+url: https://anujpanday.shinyapps.io/Softball_Stats/
+when: 1490986685.76127
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: softballStats.xlsx|stats shiny.R

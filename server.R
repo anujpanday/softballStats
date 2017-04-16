@@ -1,3 +1,5 @@
+stats<-read.csv('softballStats.csv')
+
 server<-function(input, output) {
   attach(stats)
   output$chart<-renderPlot({
